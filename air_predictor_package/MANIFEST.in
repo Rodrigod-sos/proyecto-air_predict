@@ -1,0 +1,2 @@
+include README.md
+recursive-include air_predictor/ml-model *.pkl
